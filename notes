@@ -1,0 +1,4 @@
+HashMaps:
+We need to first import java.util.HashMap
+Initialization: HashMap<Character, Integer> map = new HashMap<Character, Integer>();
+Common Methods: map.put(key,value) creates a new key value pair, map.get(key) gives corresponding value, map.keySet(), map.values(), map.remove(key), map.containsKey(key) checks if the specified key is present in Hashmap, map.containsValue() checks if Hashmap contains the specified value, map.size(), map.isEmpty() 
